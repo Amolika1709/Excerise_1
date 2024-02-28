@@ -1,4 +1,13 @@
-﻿namespace Excerise__
+﻿/*
+Author: Amolika Godse
+Date: 2/28/2022
+Comments: This C# Console Application code demonstrates the
+   Bubble Sort Algorithms. No input
+   is required for the script. It will execute without 
+   input against one pre-populated arrays. 
+*/
+
+namespace Excerise_1
 {
     internal class Program
     {
